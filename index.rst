@@ -59,7 +59,7 @@ Optimizing Action Space for RL_Agent Using LLM
 
 
 
-* AHRIZ ABIR |linkedin_AHRIZ_ABIR| 
+* AHRIZ ABIR |linkedin_AHRIZ_ABIR| |github_AHRIZ|
    
 .. |linkedin_AHRIZ_ABIR| image:: Documentation/Images/LinkedIn_Logo.png
     :width: 16
@@ -67,15 +67,25 @@ Optimizing Action Space for RL_Agent Using LLM
     :target: https://www.linkedin.com/in/abir-ahriz-30bb40210/
 
 
+.. |github_AHRIZ| image:: Documentation/Images/github.png
+    :width: 16
+    :height: 16
+    :target: https://github.com/Abir-AH
 
 
-
-* CHEGRI Salah |linkedin_salah-chegri| 
+* CHEGRI Salah |linkedin_salah-chegri| |github_CHEGRI|
    
 .. |linkedin_salah-chegri| image:: Documentation/Images/LinkedIn_Logo.png
     :width: 16
     :height: 16
     :target: https://www.linkedin.com/in/salah-chegri-b2ab62184/
+
+
+.. |github_CHEGRI| image:: Documentation/Images/github.png
+    :width: 16
+    :height: 16
+    :target: https://github.com/chegri1
+
 
 
 
