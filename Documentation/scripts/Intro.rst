@@ -20,8 +20,8 @@ General Introduction
 
 
 
-Project Objectives
-===================
+Project Objectives🎯
+=====================
 
 .. raw:: html
 
