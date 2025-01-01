@@ -34,7 +34,7 @@ Project Objectives
         <style>
             body {
                 font-family: Arial, sans-serif;
-                background-color: #f4f4f4;
+                background-color:rgb(186, 244, 242);
                 margin: 20px;
             }
             h2 {
@@ -65,26 +65,26 @@ Project Objectives
     </head>
     <body>
 
-        <h2>🎯 Project Objectives</h2>
+        <h2>🎯</h2>
         <div class="objectives">
             <!-- Objective 1 -->
             <div class="objective">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Chess_blt45.svg/1024px-Chess_blt45.svg.png" alt="Checkers Icon">
+                <img src="Documentation/Images/Checkers.png" alt="Checkers Icon">
                 <span>Create a checkers game environment that simulates the rules and dynamics of the game, allowing the AI to train and be tested. <span class="emoji">🧩</span></span>
             </div>
             <!-- Objective 2 -->
             <div class="objective">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Language_icon.svg/1024px-Language_icon.svg.png" alt="LLM Icon">
+                <img src="Documentation/Images/LLM.png" alt="LLM Icon">
                 <span>Use a large language model (LLM) to generate the 7 best possible moves at each game state, based on the analysis of board positions and potential strategies. <span class="emoji">🤖</span></span>
             </div>
             <!-- Objective 3 -->
             <div class="objective">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Chess_klt45.svg/1024px-Chess_klt45.svg.png" alt="Q-learning Icon">
+                <img src="Documentation/Images/Q-learning.png" alt="Q-learning Icon">
                 <span>Implement Q-learning to enable the AI to improve over time, learning to select optimal moves based on rewards received through trial and error. <span class="emoji">🔁</span></span>
             </div>
             <!-- Objective 4 -->
             <div class="objective">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Trophy_icon.svg/1024px-Trophy_icon.svg.png" alt="Evaluation Icon">
+                <img src="Documentation/Images/Evaluation.png" alt="Evaluation Icon">
                 <span>Evaluate the system’s performance by comparing the AI's results against other AI systems and human players, adjusting the learning algorithm as necessary. <span class="emoji">🏆</span></span>
             </div>
         </div>
