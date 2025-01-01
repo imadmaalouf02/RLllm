@@ -69,23 +69,22 @@ Project Objectives
         <div class="objectives">
             <!-- Objective 1 -->
             <div class="objective">
-                <img src="Documentation/Images/Checkers.png" alt="Checkers Icon">
+                
                 <span>Create a checkers game environment that simulates the rules and dynamics of the game, allowing the AI to train and be tested. <span class="emoji">🧩</span></span>
             </div>
             <!-- Objective 2 -->
             <div class="objective">
-                <img src="Documentation/Images/LLM.png" alt="LLM Icon">
+                
                 <span>Use a large language model (LLM) to generate the 7 best possible moves at each game state, based on the analysis of board positions and potential strategies. <span class="emoji">🤖</span></span>
             </div>
             <!-- Objective 3 -->
             <div class="objective">
-                <img src="Documentation/Images/Q-learning.png" alt="Q-learning Icon">
+                
                 <span>Implement Q-learning to enable the AI to improve over time, learning to select optimal moves based on rewards received through trial and error. <span class="emoji">🔁</span></span>
             </div>
             <!-- Objective 4 -->
             <div class="objective">
-                <img src="Documentation/Images/Evaluation.png" alt="Evaluation Icon">
-                <span>Evaluate the system’s performance by comparing the AI's results against other AI systems and human players, adjusting the learning algorithm as necessary. <span class="emoji">🏆</span></span>
+               <span>Evaluate the system’s performance by comparing the AI's results against other AI systems and human players, adjusting the learning algorithm as necessary. <span class="emoji">🏆</span></span>
             </div>
         </div>
 
