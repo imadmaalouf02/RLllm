@@ -112,8 +112,11 @@ link to github repository:  `link <https://github.com/SAAD1190/RLLM>`__
 .. raw:: html
 
     <p style="text-align: justify;"><span style="color:#000080;"><i>    
-    
-   In </i></span></p>
+   
+   In this project, we aim to develop a reinforcement learning system for the game of checkers, leveraging large language models (LLMs) to enhance decision-making. The approach involves using an LLM to generate the 7 best possible moves in any given position. These moves are then fed into a reinforcement learning algorithm, based on AlphaZero, which learns to optimize its strategy using the LLM's suggestions as initial guidance. By combining the natural language processing capabilities of LLMs with the strategic learning power of reinforcement algorithms, this system seeks to improve performance in checkers. The project focuses on utilizing historical game data and LLM outputs to reinforce understanding of the game and refine the model's strategies over time. This work explores the intersection of LLMs and reinforcement learning in the context of complex decision-making in board games.
+
+
+   </i></span></p>
 
 ---------------------------------------------------------------------------
  
