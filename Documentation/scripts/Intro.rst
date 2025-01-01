@@ -23,7 +23,74 @@ General Introduction
 Project Objectives
 ===================
 
+.. raw:: html
 
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                background-color: #f4f4f4;
+                margin: 20px;
+            }
+            h2 {
+                color: #333;
+            }
+            .objectives {
+                background-color: #fff;
+                border-radius: 8px;
+                padding: 20px;
+                box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            }
+            .objective {
+                margin-bottom: 20px;
+                display: flex;
+                align-items: center;
+            }
+            .objective img {
+                width: 40px;
+                margin-right: 15px;
+            }
+            .objective span {
+                font-size: 1.1em;
+            }
+            .emoji {
+                margin-left: 10px;
+            }
+        </style>
+    </head>
+    <body>
+
+        <h2>🎯 Project Objectives</h2>
+        <div class="objectives">
+            <!-- Objective 1 -->
+            <div class="objective">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Chess_blt45.svg/1024px-Chess_blt45.svg.png" alt="Checkers Icon">
+                <span>Create a checkers game environment that simulates the rules and dynamics of the game, allowing the AI to train and be tested. <span class="emoji">🧩</span></span>
+            </div>
+            <!-- Objective 2 -->
+            <div class="objective">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Language_icon.svg/1024px-Language_icon.svg.png" alt="LLM Icon">
+                <span>Use a large language model (LLM) to generate the 7 best possible moves at each game state, based on the analysis of board positions and potential strategies. <span class="emoji">🤖</span></span>
+            </div>
+            <!-- Objective 3 -->
+            <div class="objective">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Chess_klt45.svg/1024px-Chess_klt45.svg.png" alt="Q-learning Icon">
+                <span>Implement Q-learning to enable the AI to improve over time, learning to select optimal moves based on rewards received through trial and error. <span class="emoji">🔁</span></span>
+            </div>
+            <!-- Objective 4 -->
+            <div class="objective">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Trophy_icon.svg/1024px-Trophy_icon.svg.png" alt="Evaluation Icon">
+                <span>Evaluate the system’s performance by comparing the AI's results against other AI systems and human players, adjusting the learning algorithm as necessary. <span class="emoji">🏆</span></span>
+            </div>
+        </div>
+
+    </body>
+    </html>
 
 
 
