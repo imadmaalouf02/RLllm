@@ -43,6 +43,15 @@ Project Objectives🎯
 Why Checkers (Dame) is a Viable Alternative to Chess
 ======================================================
 
+
+
+.. figure:: /Documentation/Images/chesdam.png
+   :width: 100%
+   :alt: Alternative text for the image
+   :name: logo
+
+
+
 .. raw:: html
 
   <p style="text-align: justify;">
